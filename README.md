@@ -17,4 +17,4 @@ second time, the player loses the bet.
 
 # Example Screenshot
 
-![Alt text]( https://github.com/DKPunch/mersenne-prime-numbers/blob/master/primesPic.jpg?raw=true "Craps Screenshot")
+![Alt text](https://github.com/DKPunch/craps-game/blob/master/crapsPic.jpg?raw=true "Craps Screenshot")
